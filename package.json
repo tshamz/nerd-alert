@@ -1,0 +1,22 @@
+{
+  "name": "nerd-alert",
+  "version": "1.0.0",
+  "description": "posts Nerd Alert™ Email",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BVAccel/nerd-alert.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BVAccel/nerd-alert/issues"
+  },
+  "homepage": "https://github.com/BVAccel/nerd-alert#readme",
+  "dependencies": {
+    "nodemailer": "^4.0.1"
+  }
+}
